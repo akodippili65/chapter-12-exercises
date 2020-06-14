@@ -64,3 +64,6 @@ ggplot(size_gathered) +
 # (how to write this code is covered in Chapter 16)
 ggplot(by_type_wide) +
   geom_point(mapping = aes(x = conventional, y = organic, color = Date)) 
+
+
+##ASITA#
